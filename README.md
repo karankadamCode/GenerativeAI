@@ -1,4 +1,4 @@
-# GenerativeAI
+# Generative AI
 
 Generative AI is a subfield of artificial intelligence (AI) that focuses on creating machines or models capable of generating new content, such as images, text, audio, and more. These models can learn patterns from existing data and then generate new data that resembles the original dataset. Generative AI has gained significant attention and popularity due to its potential in various applications, including:
 
